@@ -1,11 +1,11 @@
-'''
+
 print("Hello , Python World") #print function is use to print hello python world
-'''
+
 
 ''' 
 Name=(input("enter your frist name "))
 lastName=(input("enter your last name"))
-print(Name[::-1]+" "+ lastName[::-1])
+print(Name[::-1]+" "+ lastName[::-1]) 
 '''
 
 '''
