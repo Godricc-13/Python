@@ -39,10 +39,4 @@ This is a simple Python program that fetches and displays the current stock pric
    Stock Price: ₹2,400.45
    ```
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Contributing
-
-Feel free to fork the repository, make improvements, or submit issues or pull requests.
